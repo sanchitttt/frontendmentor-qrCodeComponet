@@ -7,11 +7,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![image.png](https://postimg.cc/YLzyHWQh)
+[image.png](https://postimg.cc/YLzyHWQh)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://polite-daifuku-5f8ccd.netlify.app/)
+- Live Site URL: (https://polite-daifuku-5f8ccd.netlify.app/)
 
 ### Built with
 
